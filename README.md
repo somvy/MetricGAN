@@ -1,5 +1,5 @@
 # MetricGAN
-An MetricGAN implementation for Speech Enhansement
+MetricGAN implementation for Speech Enhansement task
 # Original paper
 https://arxiv.org/pdf/1905.04874.pdf
 
